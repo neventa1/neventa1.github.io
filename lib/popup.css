@@ -1,3 +1,7 @@
+body {
+    font-family: Abel,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 .overlay {
     position: fixed;
     top: 0;
@@ -27,7 +31,13 @@
 .popup h2 {
     margin-top: 0;
     color: #333;
-    font-family: Tahoma, Arial, sans-serif;
+    font-family: Abel,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.popup h3 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #333;
+    font-family: Abel,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .popup .close {
     position: absolute;

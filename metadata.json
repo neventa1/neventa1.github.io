@@ -3,9 +3,13 @@
         {
             "type": "ditem",
             "name": "aLTEr Attack",
-            "description": "<a href=\"#popup1\">Chuck Collins</a>",
+            "description": "Match temporal identifieres with long-term identifieres to track users, modify messages and learn about website visits.",
             "ditem": 1,
             "slug": "#popup1",
+            "example": "Malicious car software update through poisoned DNS response.",
+            "source": "https://alter-attack.net/media/breaking_lte_on_layer_two.pdf",
+            "prerequisites": "Proximity, SDR, time, LTE implementation",
+            "academic": "yes",
             "links": [
                 "4G",
                 "5G",
@@ -18,10 +22,16 @@
         {
             "type": "ditem",
             "name": "Jamming",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a>",
+            "description": " Jamming above 24 GHz will take significantlymore hardware knowledge, time, and money.",
             "ditem": 2,
             "slug": "ditem-35-chuck-collins",
+            "example": "",
+            "source": "",
+            "prerequisites": "",
+            "academic": "no",
             "links": [
+                "2G",
+                "3G",
                 "4G",
                 "5G",
                 "Authentication",
@@ -31,14 +41,17 @@
         {
             "type": "ditem",
             "name": "ToRPEDO",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a>",
+            "description": "Call the victim several times within a short time period to trigger paging requests, to retrieve temporal identifier. Then take over paging channel to retrieve permanent identifier.",
             "ditem": 3,
             "slug": "ditem-35-chuck-collins",
+            "example": "Shut down a smart factory by cutting off communications.",
+            "source": "http://homepage.divms.uiowa.edu/~comarhaider/publications/LTE-torpedo-NDSS19.pdf",
+            "prerequisites": "Proximity, Victim's phone number, Time",
+            "academic": "yes",
             "links": [
                 "4G",
                 "5G",
                 "Authentication",
-                "Integrity",
                 "Quality of Service",
                 "Implementation"
             ]
@@ -46,9 +59,13 @@
         {
             "type": "ditem",
             "name": "PIERCER",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a>",
+            "description": "From the identified 7 bits of IMSI from ToRPEDO attack, leaves 24 bits to guess, which can be brute forced in less than 13 hours.",
             "ditem": 4,
             "slug": "ditem-35-chuck-collins",
+            "example": "5G enabled cars location could be tracked.",
+            "source": "http://homepage.divms.uiowa.edu/~comarhaider/publications/LTE-torpedo-NDSS19.pdf",
+            "prerequisites": "TMSI, Time",
+            "academic": "yes",
             "links": [
                 "4G",
                 "5G",
@@ -59,10 +76,30 @@
         },
         {
             "type": "ditem",
+            "name": "IMSI catcher",
+            "description": "Since no authentication is done by the base station, an attacker can fake a base station and leak the IMSI, symetric keys, and preform MITM. 3G, 4G, 5G signal have to be blocked, so the victim will connect to the 5G base station.",
+            "ditem": 1,
+            "slug": "#popup1",
+            "example": "Phone calls can be wire tapped by the attacker.",
+            "source": "https://www.sba-research.org/wp-content/uploads/publications/DabrowskiEtAl-IMSI-Catcher-Catcher-ACSAC2014.pdf",
+            "prerequisites": "Proximity, GSM Equipment",
+            "academic": "no",
+            "links": [
+                "2G",
+                "Privacy",
+                "Authentication",
+                "Specification"
+            ]
+        },
+        {
+            "type": "ditem",
             "name": "GTP IP Fragmentation",
             "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a>",
             "ditem": 5,
             "slug": "ditem-35-chuck-collins",
+            "example": "",
+            "source": "",
+            "prerequisites": "",
             "links": [
                 "3G",
                 "4G",
