@@ -2,413 +2,73 @@
     "ditems": [
         {
             "type": "ditem",
-            "name": "Chuck Collins",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a> directs the <a href=\"http://www.ips-dc.org/\">Institute of Policy Studies</a> <a href=\"http://www.ips-dc.org/inequality\">Program on Inequality and the Common Good</a>. He is the co-founder of <a href=\"http://www.faireconomy.org/\">United for a Fair Economy</a> and <a href=\"http://wealthforcommongood.org/\">Wealth for the Common Good</a>, a network of wealthy individuals who embrace fair taxation to support the public good.",
-            "ditem": 35,
-            "date": "2012-12-05 20:56:14",
+            "name": "aLTEr Attack",
+            "description": "<a href=\"#popup1\">Chuck Collins</a>",
+            "ditem": 1,
+            "slug": "#popup1",
+            "links": [
+                "4G",
+                "5G",
+                "Privacy",
+                "Authentication",
+                "Integrity",
+                "Specification"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Jamming",
+            "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a>",
+            "ditem": 2,
             "slug": "ditem-35-chuck-collins",
             "links": [
-                "Collapse",
-                "Community",
-                "Economy",
-                "Environment",
-                "Equality",
-                "Government",
-                "Happiness",
-                "Health",
-                "Spirituality",
-                "Collectivist",
-                "Dualist",
-                "Localized",
-                "Subjectivist"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Ethan Zuckerman",
-            "description": "<a href=\"http://www.ethanzuckerman.com/\">Ethan Zuckerman</a> is the Director of MIT's <a href=\"http://civic.mit.edu/\">Center for Civic Media</a>, a former fellow at <a href=\"http://cyber.law.harvard.edu/people/ezuckerman\">Harvard's Berkman Center</a>, and co-founder of <a href=\"http://globalvoicesonline.org/\">Global Voices</a>, a hub for international news bloggers.",
-            "ditem": 36,
-            "date": "2012-12-13 18:08:06",
-            "slug": "ditem-36-ethan-zuckerman",
-            "links": [
-                "Community",
-                "Education",
-                "Environment",
-                "Government",
-                "Health",
-                "Media",
-                "Mythology",
-                "Sci/Tech",
-                "Centralized",
-                "Physicalist"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "David Keith",
-            "description": "<a href=\"http://www.seas.harvard.edu/directory/dkeith\">David Keith</a> is a Harvard professor of Applied Physics and Public Policy. He has spent over two decades researching climate science and geoengineering, was named a <a href=\"http://www.time.com/time/specials/packages/article/0,28804,1924149_1924154_1924428,00.html\">Hero of the Environment</a> by TIME in 2009, and is the President of <a href=\"http://www.carbonengineering.com\">a company dedicated to reducing atmospheric CO2</a>.",
-            "ditem": 37,
-            "date": "2012-12-20 17:10:52",
-            "slug": "ditem-37-david-keith",
-            "links": [
-                "Environment",
-                "Government",
-                "Sci/Tech",
-                "Spirituality",
-                "2G",
-                "Centralized",
-                "Intrinsic",
-                "Objectivist",
-                "Physicalist"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Alexa Clay",
-            "description": "<a href=\"https://twitter.com/alexaclay\">Alexa Clay</a> is an author, economic historian, and director of thought leadership at <a href=\"http://www.changemakers.com/users/alexa-clay\">Ashoka Changemakers</a>. She is co-author of <a href=\"http://www.misfiteconomy.com\"><em>The Misfit Economy</em></a>, a forthcoming book that looks for economic innovation amongst pirates, hackers, and gangs.",
-            "ditem": 38,
-            "date": "2013-01-01 14:03:43",
-            "slug": "ditem-38-alexa-clay",
-            "links": [
-                "Economy",
-                "Happiness",
-                "Localized",
-                "Subjectivist"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Richard Saul Wurman",
-            "description": "<a href=\"http://www.wurman.com/rsw/index.html\">Richard Saul Wurman</a> is a designer, architect, author of over 80 books, and founder of several conferences including <a href=\"http://www.ted.com\">TED</a>, <a href=\"http://www.thewwwconference.com\">WWW</a>, and <a href=\"https://www.the-eg.com\">EG</a>.",
-            "ditem": 39,
-            "date": "2013-01-09 18:32:18",
-            "slug": "ditem-39-richard-saul-wurman",
-            "links": [
-                "Happiness",
-                "Media",
-                "Mythology",
-                "3G",
-                "Extrinsic",
-                "Individualist",
-                "Subjectivist"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Mary Mattingly",
-            "description": "<a href=\"http://www.marymattingly.com/\">Mary Mattingly</a> is an artist whose work explores the environment, sustainability, community, and survival in an unstable world. Recently, she has brought these themes together with the <a href=\"http://www.flockhouse.org/\">Flockhouse Project</a> and the <a href=\"http://www.thewaterpod.org/mm.html\">Waterpod</a>.",
-            "ditem": 40,
-            "date": "2013-01-17 16:45:14",
-            "slug": "ditem-40-mary-mattingly",
-            "links": [
-                "Confidentiality",
-                "Collapse",
-                "Community",
-                "Economy",
-                "Environment",
-                "3G",
-                "Localized",
-                "Physicalist"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "John Fullerton",
-            "description": "<a href=\"http://www.capitalinstitute.org/about/leadership\">John Fullerton</a> is the founder of the <a href=\"http://www.capitalinstitute.org/\">Capital Institute</a>, a group dedicated to rethinking the future of finance. Prior to his work at the Capital Institute, he was the Managing Director of JPMorgan.",
-            "ditem": 41,
-            "date": "2013-01-27 12:59:56",
-            "slug": "ditem-41-john-fullerton",
-            "links": [
-                "Collapse",
-                "Economy",
-                "Environment",
-                "Mythology",
-                "Sci/Tech",
-                "2G",
-                "Collectivist",
-                "Free Will",
-                "Localized",
-                "Objectivist"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Gary Francione",
-            "description": "",
-            "ditem": 42,
-            "date": "2013-02-15 11:31:04",
-            "slug": "ditem-42-gary-francione",
-            "links": [
-                "Community",
-                "Economy",
-                "Environment",
-                "Gender",
-                "Health",
-                "Law",
-                "Spirituality",
-                "2G",
-                "Centralized",
-                "Collectivist",
-                "Dualist",
-                "Free Will",
-                "Intrinsic"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Roberta Francis",
-            "description": "",
-            "ditem": 43,
-            "date": "2013-02-20 17:43:58",
-            "slug": "ditem-43-roberta-francis",
-            "links": [
-                "Economy",
-                "Equality",
-                "Gender",
-                "Law",
-                "Centralized",
-                "Free Will",
-                "Intrinsic"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "John Seager",
-            "description": "",
-            "ditem": 44,
-            "date": "2013-02-27 11:43:48",
-            "slug": "ditem-44-john-seager",
-            "links": [
-                "Education",
-                "Environment",
-                "Equality",
-                "Gender",
-                "Health",
-                "Population",
-                "Free Will",
-                "Intrinsic",
-                "Localized"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "James Bamford",
-            "description": "",
-            "ditem": 45,
-            "date": "2013-03-07 22:18:00",
-            "slug": "ditem-45-james-bamford",
-            "links": [
-                "Government",
-                "Law",
-                "Sci/Tech",
-                "Centralized",
-                "Free Will",
-                "Individualist",
-                "Intrinsic"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Mark Mykleby",
-            "description": "",
-            "ditem": 46,
-            "date": "2013-03-21 10:31:50",
-            "slug": "ditem-46-mark-mykleby",
-            "links": [
-                "Community",
-                "Economy",
-                "Education",
-                "Environment",
-                "Government",
-                "Happiness",
-                "Health",
-                "Mythology",
-                "Population",
-                "Sci/Tech",
-                "3G",
-                "Free Will",
-                "Objectivist"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Oliver Porter",
-            "description": "",
-            "ditem": 47,
-            "date": "2013-04-03 13:18:40",
-            "slug": "ditem-47-oliver-porter",
-            "links": [
-                "Community",
-                "Economy",
-                "Equality",
-                "Government",
-                "Happiness",
-                "Race",
-                "3G",
-                "Free Will",
-                "Individualist",
-                "Localized",
-                "Objectivist"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Chris Carter",
-            "description": "",
-            "ditem": 48,
-            "date": "2013-04-17 21:55:47",
-            "slug": "ditem-48-chris-carter",
-            "links": [
-                "Collapse",
-                "Education",
-                "Population",
-                "Sci/Tech",
-                "Determinism",
-                "Localized"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Scott Douglas",
-            "description": "",
-            "ditem": 49,
-            "date": "2013-05-06 14:57:35",
-            "slug": "ditem-49-scott-douglas",
-            "links": [
-                "Quality of Service",
-                "Community",
-                "Economy",
-                "Education",
-                "Equality",
-                "Gender",
-                "Law",
-                "Race",
-                "Spirituality",
-                "Time",
-                "3G",
-                "Collectivist",
-                "Dualist",
-                "Free Will"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Phyllis Tickle",
-            "description": "",
-            "ditem": 51,
-            "date": "2013-05-28 17:21:02",
-            "slug": "ditem-51-phyllis-tickle",
-            "links": [
-                "Quality of Service",
-                "Collapse",
-                "Community",
-                "Economy",
-                "Mythology",
-                "Sci/Tech",
-                "Spirituality",
-                "Time",
-                "Collectivist",
-                "Dualist",
-                "Intrinsic",
-                "Localized"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Walter Block",
-            "description": "",
-            "ditem": 52,
-            "date": "2013-07-05 20:30:57",
-            "slug": "ditem-52-walter-block",
-            "links": [
-                "Economy",
-                "Environment",
-                "Government",
-                "Population",
-                "Sci/Tech",
-                "3G",
-                "Extrinsic",
-                "Free Will",
-                "Individualist",
-                "Localized",
-                "Physicalist"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Carlos Perez de Alejo",
-            "description": "",
-            "ditem": 53,
-            "date": "2013-07-16 12:12:01",
-            "slug": "ditem-53-carlos-perez-de-alejo",
-            "links": [
-                "Quality of Service",
-                "Economy",
                 "4G",
-                "Equality",
-                "Collectivist",
-                "Free Will"
+                "5G",
+                "Authentication",
+                "Integrity"
             ]
         },
         {
             "type": "ditem",
-            "name": "Charles Bowden",
-            "description": "",
-            "ditem": 54,
-            "date": "2013-07-28 00:04:13",
-            "slug": "ditem-54-charles-bowden",
+            "name": "ToRPEDO",
+            "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a>",
+            "ditem": 3,
+            "slug": "ditem-35-chuck-collins",
             "links": [
-                "Privacy",
-                "Collapse",
                 "4G",
-                "Economy",
-                "Environment",
-                "Happiness",
-                "Population",
-                "Race",
-                "Sci/Tech",
-                "Spirituality",
-                "Time",
-                "2G",
-                "Free Will",
-                "Intrinsic",
-                "Physicalist"
+                "5G",
+                "Authentication",
+                "Integrity",
+                "Quality of Service",
+                "Implementation"
             ]
         },
         {
             "type": "ditem",
-            "name": "Ed Finn",
-            "description": "",
-            "ditem": 55,
-            "date": "2013-08-23 17:22:11",
-            "slug": "ditem-55-ed-finn",
+            "name": "PIERCER",
+            "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a>",
+            "ditem": 4,
+            "slug": "ditem-35-chuck-collins",
             "links": [
-                "Community",
+                "4G",
                 "5G",
-                "Happiness",
-                "Media",
-                "Mythology",
-                "Sci/Tech",
-                "Time",
-                "Collectivist",
-                "Free Will",
-                "Subjectivist"
+                "Authentication",
+                "Integrity",
+                "Specification"
             ]
         },
         {
             "type": "ditem",
-            "name": "Joan Blades",
-            "description": "",
-            "ditem": 57,
-            "date": "2014-06-04 16:32:47",
-            "slug": "ditem-57-joan-blades",
+            "name": "GTP IP Fragmentation",
+            "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a>",
+            "ditem": 5,
+            "slug": "ditem-35-chuck-collins",
             "links": [
-                "Community",
-                "Environment",
+                "3G",
+                "4G",
                 "5G",
-                "Media",
-                "Free Will",
-                "Localized"
+                "Authentication",
+                "Privacy"
             ]
         }
     ],
@@ -417,61 +77,71 @@
             "type": "theme",
             "name": "Privacy",
             "description": "",
-            "slug": "agriculture-2"
+            "slug": "privacy"
         },
         {
             "type": "theme",
-            "name": "Confidentiality",
+            "name": "Authentication",
             "description": "",
-            "slug": "art-2"
+            "slug": "authentication"
         },
         {
             "type": "theme",
             "name": "Quality of Service",
             "description": "",
-            "slug": "class-2"
+            "slug": "qos"
         },
         {
             "type": "theme",
-            "name": "Collapse",
+            "name": "Integrity",
             "description": "",
-            "slug": "collapse-2"
-        },
-        {
-            "type": "theme",
-            "name": "Community",
-            "description": "",
-            "slug": "community-2"
+            "slug": "integrity"
         }
     ],
     "perspectives": [
         {
             "type": "perspective",
             "name": "2G",
-            "description": "To varying degrees, these conversations treat human life as having <a href=\"http://en.wikipedia.org/wiki/Biocentrism_%28ethics%29\">similar or equal moral weight</a> to other life. We are also including broader-than-life value sources like <a href=\"http://en.wikipedia.org/wiki/Ecocentrism\">ecocentrism</a> in this category. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#anthropocentric\">anthropocentric</a>.",
-            "slug": "biocentric-value-source",
-            "count": "10"
+            "description": "",
+            "slug": "2g",
+            "count": "1"
         },
         {
             "type": "perspective",
             "name": "3G",
-            "description": "To varying degrees, these conversations treat human life as having <a href=\"http://en.wikipedia.org/wiki/Anthropocentrism\">greater moral weight</a> than other life. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#biocentric\">biocentric</a>.",
-            "slug": "anthropocentric-value-source",
-            "count": "26"
+            "description": "",
+            "slug": "3g",
+            "count": "1"
         },
         {
             "type": "perspective",
             "name": "4G",
-            "description": "To varying degrees, these conversations treat human life as having <a href=\"http://en.wikipedia.org/wiki/Anthropocentrism\">greater moral weight</a> than other life. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#biocentric\">biocentric</a>.",
-            "slug": "anthropocentric-value-source",
-            "count": "26"
+            "description": "",
+            "slug": "4g",
+            "count": "1"
         },
         {
             "type": "perspective",
             "name": "5G",
-            "description": "To varying degrees, these conversations treat human life as having <a href=\"http://en.wikipedia.org/wiki/Anthropocentrism\">greater moral weight</a> than other life. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#biocentric\">biocentric</a>.",
-            "slug": "anthropocentric-value-source",
-            "count": "26"
+            "description": "",
+            "slug": "5g",
+            "count": "1"
+        },
+        {
+            "type": "perspective",
+            "name": "Implementation",
+            "description": "",
+            "slug": "implementation",
+            "count": "1",
+            "group": "attack_type"
+        },
+        {
+            "type": "perspective",
+            "name": "Specification",
+            "description": "",
+            "slug": "specs",
+            "count": "1",
+            "group": "attack_type"
         }
     ]
 }
