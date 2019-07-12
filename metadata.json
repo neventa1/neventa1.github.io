@@ -21,12 +21,31 @@
         },
         {
             "type": "ditem",
-            "name": "Jamming",
-            "description": " Jamming above 24 GHz will take significantlymore hardware knowledge, time, and money.",
+            "name": "Wideband Jamming",
+            "description": "Jamming above 24 GHz will take significantly more hardware knowledge, time, and money. Wideband jamming is very expensive.",
             "ditem": 2,
             "slug": "ditem-35-chuck-collins",
-            "example": "",
+            "example": "A production plant leveraging IIoT over 5G has to stop their production.",
             "source": "",
+            "prerequisites": "",
+            "academic": "no",
+            "links": [
+                "2G",
+                "3G",
+                "4G",
+                "5G",
+                "Authentication",
+                "Integrity"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Protocol Jamming",
+            "description": "Similar to LTE, 5G NR contains a Primary Synchronization Signal (PSS) and  Secondary Synchronization Signal (SSS) which together are used for frame/slot/symbol timing as well as conveying the Physical Cell ID.",
+            "ditem": 2,
+            "slug": "ditem-35-chuck-collins",
+            "example": "A production plant leveraging IIoT over 5G has to stop their production.",
+            "source": "https://arxiv.org/pdf/1803.03845.pdf",
             "prerequisites": "",
             "academic": "no",
             "links": [
@@ -76,7 +95,7 @@
         },
         {
             "type": "ditem",
-            "name": "IMSI catcher",
+            "name": "IMSI Catcher",
             "description": "Since no authentication is done by the base station, an attacker can fake a base station and leak the IMSI, symetric keys, and preform MITM. 3G, 4G, 5G signal have to be blocked, so the victim will connect to the 5G base station.",
             "ditem": 1,
             "slug": "#popup1",
@@ -93,18 +112,39 @@
         },
         {
             "type": "ditem",
+            "name": "TCP Retransmission",
+            "description": "If the ISP charges for retransmissions: Create a MITM and start by letting traffic go through. Drop packets from the base station once every few packets to force the user to request retransmition. If done properly the user will not notice. The user will then be over billed. If the ISP does not charge for retransmission then send from the user device multiple retransmitions requests and add a crafted header to get free usage",
+            "ditem": 1,
+            "slug": "#popup1",
+            "example": "Free data or cause others to pay for more data. Cars could use their montly allowance of data.",
+            "source": "https://www.ndsl.kaist.edu/~yhwan/papers/abacus_ndss14.pdf",
+            "prerequisites": "Fake base station, Proximity",
+            "academic": "yes",
+            "links": [
+                "2G",
+                "3G",
+                "4G",
+                "5G",
+                "Implementation"
+            ]
+        },
+        {
+            "type": "ditem",
             "name": "GTP IP Fragmentation",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a>",
+            "description": "IP Fragmentation is the source for many types of fragmentation attacks. While standard IP Fragmentations are not required by the 5G standard, support for GTP is included. GTP allows the tunneling of an old form of packets that support fragmentation.",
             "ditem": 5,
             "slug": "ditem-35-chuck-collins",
-            "example": "",
-            "source": "",
-            "prerequisites": "",
+            "example": "DSN cache can be poisoned allowing for an attacker to spoof any website",
+            "source": "https://research.aalto.fi/files/17110349/TunnelingShort_cameraready_nohyper_pdfa.pdf",
+            "prerequisites": "Fake base station",
+            "academic": "yes",
             "links": [
+                "2G",
                 "3G",
                 "4G",
                 "5G",
                 "Authentication",
+                "Specification",
                 "Privacy"
             ]
         }
