@@ -35,7 +35,7 @@
                 "4G",
                 "5G",
                 "Quality of Service",
-				"Specification"
+                "Specification"
             ]
         },
         {
@@ -53,7 +53,7 @@
                 "3G",
                 "4G",
                 "Quality of Service",
-				"Specification"
+                "Specification"
             ]
         },
         {
@@ -105,7 +105,7 @@
             "links": [
                 "2G",
                 "Privacy",
-				"Quality of Service",
+                "Quality of Service",
                 "Authentication",
                 "Specification"
             ]
@@ -125,8 +125,8 @@
                 "3G",
                 "4G",
                 "5G",
-				"Quality of Service",
-				"Authentication",
+                "Quality of Service",
+                "Authentication",
                 "Implementation"
             ]
         },
@@ -146,7 +146,7 @@
                 "4G",
                 "5G",
                 "Integrity",
-                "Specification",
+                "Specification"
             ]
         }
     ],
