@@ -34,8 +34,8 @@
                 "3G",
                 "4G",
                 "5G",
-                "Authentication",
-                "Integrity"
+                "Quality of Service",
+				"Specification"
             ]
         },
         {
@@ -52,9 +52,8 @@
                 "2G",
                 "3G",
                 "4G",
-                "5G",
-                "Authentication",
-                "Integrity"
+                "Quality of Service",
+				"Specification"
             ]
         },
         {
@@ -70,7 +69,7 @@
             "links": [
                 "4G",
                 "5G",
-                "Authentication",
+                "Privacy",
                 "Quality of Service",
                 "Implementation"
             ]
@@ -88,8 +87,8 @@
             "links": [
                 "4G",
                 "5G",
-                "Authentication",
-                "Integrity",
+                "Privacy",
+                "Quality of Service",
                 "Specification"
             ]
         },
@@ -106,6 +105,7 @@
             "links": [
                 "2G",
                 "Privacy",
+				"Quality of Service",
                 "Authentication",
                 "Specification"
             ]
@@ -125,6 +125,8 @@
                 "3G",
                 "4G",
                 "5G",
+				"Quality of Service",
+				"Authentication",
                 "Implementation"
             ]
         },
@@ -143,9 +145,8 @@
                 "3G",
                 "4G",
                 "5G",
-                "Authentication",
+                "Integrity",
                 "Specification",
-                "Privacy"
             ]
         }
     ],
